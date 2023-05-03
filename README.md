@@ -1,2 +1,2 @@
 # GCSIC
-Gerencia de Configuração de SOftware e Entrega Continua
+Gerencia de Configuração de Software e Entrega Continua
